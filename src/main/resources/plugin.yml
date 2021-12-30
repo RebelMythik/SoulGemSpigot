@@ -1,0 +1,13 @@
+name: SoulGem
+version: ${project.version}
+main: rebelmythik.soulgem.SoulGem
+api-version: 1.16
+description: Revives Player on Death
+
+permissions:
+  soulgem.control:
+    description: "Gives a player a soul gem"
+
+commands:
+  soulgem:
+    description:
